@@ -4,6 +4,4 @@
   </div>
 </template>
 
-<script setup>
-const test = '123';
-</script>
+<script setup></script>
